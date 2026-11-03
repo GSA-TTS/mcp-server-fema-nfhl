@@ -45,7 +45,7 @@ cryptography==50.0.0
     #   secretstorage
 cyclopts==4.22.5
     # via fastmcp-slim
-dnspython==2.8.0
+dnspython==2.9.0
     # via email-validator
 docstring-parser==0.18.0
     # via cyclopts
